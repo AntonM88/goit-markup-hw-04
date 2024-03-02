@@ -90,7 +90,7 @@ img {
 }
 .active {
   color: #404bbf;
-  margin-bottom: -1px;
+  padding-bottom: -1px;
 }
 .menu-link.active::after {
   content: '';
